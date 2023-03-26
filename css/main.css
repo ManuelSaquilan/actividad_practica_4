@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    color:white;
+}
+
+nav{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.nav{
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.redsocial{
+    color:white;
+    padding: 5px;
+}
